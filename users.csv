@@ -1,0 +1,51 @@
+user_id,name,department,role,access_level,last_login,mfa_enabled,manager,created_date
+U1000,Justin Reyes,Finance,Analyst,Admin,2026-01-06,True,Christopher Chaney,2023-09-03
+U1001,Julie Freeman,HR,Recruiter,Admin,2026-01-25,False,Kimberly Clarke,2024-05-04
+U1002,Nicholas Mccarthy,Finance,Senior Analyst,Elevated,2026-01-12,True,James Allen,2025-07-03
+U1003,Nicole Dunn,Finance,Senior Analyst,Elevated,2026-02-26,True,Brent Lang,2024-04-07
+U1004,Sarah Weaver,Finance,Manager,Admin,2025-04-13,True,Vicki Gutierrez,2023-03-07
+U1005,Robert Pope,HR,Recruiter,Admin,2026-01-07,True,Heather Burgess,2025-05-23
+U1006,Alex Dean,Risk,Compliance Officer,Elevated,2026-01-09,False,Kelly Gray,2026-01-15
+U1007,Adriana Curtis,IT,Engineer,Elevated,2026-02-19,True,Andrew Pratt,2023-03-25
+U1008,Nicholas Peterson,Risk,Compliance Officer,Admin,2026-02-17,True,Robert Johnson,2023-12-03
+U1009,Amy Mcmillan,IT,Architect,Admin,2026-02-12,True,Mrs. Carmen Thompson,2025-07-01
+U1010,Rachel Tyler,Finance,Senior Analyst,Admin,2026-01-07,True,,2024-03-16
+U1011,William Ellis,Risk,Risk Analyst,Elevated,2026-02-24,True,David Thompson,2024-06-16
+U1012,Daniel Meyers,IT,Admin,Standard,2026-01-31,True,Robert Bennett,2025-12-09
+U1013,Tammy Hubbard,Operations,Coordinator,Admin,2026-02-05,True,Deborah Sandoval,2025-06-25
+U1014,Matthew Patterson,HR,Recruiter,Admin,2026-01-08,True,Dr. Melissa Moss,2024-08-22
+U1015,Michael Carroll,Finance,Analyst,Standard,2026-02-14,True,Denise Morgan,2024-08-26
+U1016,Lisa Reed,Operations,Coordinator,Admin,2026-01-15,True,Kevin Green,2025-04-25
+U1017,Mckenzie Baldwin,IT,Engineer,Standard,2026-02-09,True,Heather Price,2024-05-23
+U1018,Zachary Hicks,IT,Engineer,Elevated,2026-02-17,True,Richard Kaufman,2023-05-29
+U1019,Emily Bradley,Finance,Senior Analyst,Admin,2026-02-28,True,Vernon Galvan,2023-12-13
+U1020,Tamara Daniel,HR,Recruiter,Admin,2025-05-02,True,John Leonard,2026-01-05
+U1021,Timothy Petersen,IT,Senior Engineer,Admin,2026-02-04,True,Jodi Villegas,2025-02-16
+U1022,Michael Jenkins,Finance,Senior Analyst,Standard,2026-03-04,True,Abigail White,2024-09-04
+U1023,Paul Cameron,Finance,Analyst,Standard,2026-02-15,True,,2024-08-21
+U1024,Steven Garrison,Operations,Coordinator,Standard,2026-01-13,True,Shelly Alexander,2023-04-11
+U1025,Jennifer Hernandez,Operations,Specialist,Elevated,2026-01-08,False,Kelly Russo,2024-09-04
+U1026,Jennifer Rodriguez,Finance,Analyst,Standard,2025-08-29,True,Bonnie Campbell,2025-03-20
+U1027,Samantha Smith,HR,HR Specialist,Elevated,2025-04-22,False,Jimmy Richards,2025-10-04
+U1028,Timothy Wilcox,HR,Recruiter,Standard,2025-09-10,True,Thomas Reyes,2023-10-27
+U1029,Annette Knight,Operations,Specialist,Standard,2026-02-08,True,Michael Krueger,2023-11-29
+U1030,Deborah Allen,Risk,Risk Manager,Admin,2026-01-18,True,Mr. James Wade,2024-04-09
+U1031,Jesse Hicks,Operations,Coordinator,Admin,2026-03-01,True,Samantha Dalton,2025-10-19
+U1032,Tabitha Hamilton,Risk,Risk Analyst,Standard,2025-03-19,True,Jeffrey Lewis,2025-09-23
+U1033,Allison Bean,Finance,Senior Analyst,Admin,2025-07-31,False,Derrick Harrington,2024-01-24
+U1034,Erica Tran,HR,HR Manager,Elevated,2025-07-24,False,Joanne Golden,2023-09-12
+U1035,Toni James,IT,Admin,Elevated,2026-01-04,True,Alexander Brown,2023-04-01
+U1036,Paul Warren,Finance,Analyst,Standard,2026-01-31,True,,2025-10-22
+U1037,Christopher Henderson,Risk,Risk Analyst,Standard,2026-02-04,True,Frank Smith,2023-05-11
+U1038,Eric Coleman PhD,HR,HR Manager,Admin,2026-01-11,True,Amanda Walsh,2024-11-02
+U1039,Daniel Crawford,HR,HR Specialist,Elevated,2026-01-16,False,Mr. Joshua Johnson,2024-08-15
+U1040,Laura Daniels,HR,Recruiter,Admin,2026-01-09,True,Elizabeth Reyes,2025-07-07
+U1041,Daniel Casey,Risk,Compliance Officer,Elevated,2026-01-10,True,,2025-12-07
+U1042,Christopher Wright,Risk,Risk Analyst,Admin,2025-04-22,True,Michael Olson,2026-01-13
+U1043,Mariah Torres,HR,HR Manager,Admin,2026-01-06,False,Betty Price,2024-09-08
+U1044,Jerry Watson MD,IT,Engineer,Elevated,2026-02-09,True,Monica Hall,2025-01-11
+U1045,Michael Villanueva,Finance,Controller,Elevated,2026-01-24,True,Daniel Bailey,2025-04-18
+U1046,Warren Scott,IT,Senior Engineer,Standard,2026-02-21,True,Allison Thomas,2025-03-24
+U1047,Erin Riley,Risk,Risk Manager,Admin,2026-02-26,True,William Hall,2024-02-15
+U1048,Mark Dean,Operations,Coordinator,Elevated,2026-01-11,True,Jesse Martinez,2024-04-16
+U1049,Randall Petty,IT,Senior Engineer,Elevated,2025-06-08,False,Dr. Mitchell Johnson,2023-12-07
