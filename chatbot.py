@@ -103,11 +103,9 @@ def chat_with_claude(messages, user_row):
             "ANTHROPIC_API_KEY=sk-ant-..."
         )
 
-    #client = anthropic.Anthropic(api_key=api_key)
-	# WITH this (works both locally AND on Streamlit Cloud):
-    import streamlit as st
-    api_key = st.secrets.get("ANTHROPIC_API_KEY") or os.getenv("ANTHROPIC_API_KEY")
     client = anthropic.Anthropic(api_key=api_key)
+	# WITH this (works both locally AND on Streamlit Cloud):
+
 
     response = client.messages.create(
         model="claude-sonnet-4-20250514",   # use the latest Sonnet model
